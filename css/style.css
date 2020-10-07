@@ -124,3 +124,12 @@ a:hover
     background-color: rgba(25, 25, 95, 0.473);
 }
 
+.main-nave{
+    padding: 20px 0 0 0;
+    background-image: url('../img-nave/bg-nave.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+
