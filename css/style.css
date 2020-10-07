@@ -1,0 +1,126 @@
+.nav-item{
+    font-size: 20px;
+}
+
+.main{
+    padding: 20px 0 0 0;
+    background-image: url('../img-fox/bg-novo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+
+body, html {
+    height: 100%;
+}
+
+.box-lateral{
+    background: #1b1919ad;
+    padding: 10px;
+    color: #fff;
+}
+
+.box-lateral p {
+    margin: 10px 0 0 0;
+    text-align: justify;
+    font-size: 0.9em;
+}
+
+.box-slide{
+    background: #1b1919ad;
+    padding: 10px;
+}
+
+.box-download{
+    background: #1b1919ad;
+    padding: 10px;
+    color: #fff;
+}
+
+.titulo{
+    background: #1b1919ad;
+    padding: 10px;
+    margin-bottom:10px;
+    color:#fff;
+}
+
+.titulo h3{
+    margin:0;
+}
+
+.box-lateral hr{
+    background:#fff;
+}
+
+.tag{
+    line-height: 15px;
+}
+
+.space{
+    padding: 10px 0 0 0;
+}
+
+.tit-download{
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.btn-download{
+    float:right;
+    margin: 0px 5px;
+}
+
+.img-l{
+    width: 3em;
+}
+
+
+.txt-indicativa{
+    text-align: start !important;
+}
+
+.box-sobre{
+    background: #1b1919ad;
+    padding: 10px;
+    color: #fff;
+    margin: 10px 0;
+}
+
+.box-sobre hr{
+    background:#fff;
+}
+
+footer{
+    background: #000000b8;
+    padding: 20px 0;
+}
+
+.dedsec{
+    filter: brightness(0) invert(1);
+}
+
+.box-inicio-fox{
+    background: #1b1919ad;
+    padding: 10px;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+.main-inicio{
+    padding: 20px 0 0 0;
+    background-color: rgba(25, 25, 95, 0.473);
+}
+
